@@ -24,3 +24,14 @@ else if ( color ==="Green") {
     else {
         alert ("Be car ful")
     }
+
+    // single input or prompt
+
+
+
+
+
+
+
+
+
